@@ -7,7 +7,7 @@ pkg update && pkg upgrade
 pkg install git
 pkg install python
 rm -rf PyCompile
-git clone https://github.com/MUMIT-404-CYBER/PyCompile
+git clone https://github.com/Mahobin-Universe/PyCompile
 cd PyCompile
 python enc.py
 ```
